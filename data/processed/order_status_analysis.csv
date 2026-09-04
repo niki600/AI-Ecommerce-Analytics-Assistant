@@ -1,0 +1,9 @@
+order_status,revenue,orders,units
+delivered,13221498.11,96478,110197
+shipped,150727.44,1107,1185
+canceled,95235.27,625,542
+invoiced,61526.37,314,359
+processing,60439.22,301,357
+unavailable,2007.69,609,7
+approved,209.60000000000002,2,3
+created,0.0,5,0
